@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Software\Project\RSS\RSS\bin\Debug\RSS.exe.config
+C:\Users\ASUS\Desktop\Software\Project\RSS\RSS\bin\Debug\RSS.exe
+C:\Users\ASUS\Desktop\Software\Project\RSS\RSS\bin\Debug\RSS.pdb
+C:\Users\ASUS\Desktop\Software\Project\RSS\RSS\obj\Debug\RSS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Software\Project\RSS\RSS\obj\Debug\RSS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Software\Project\RSS\RSS\obj\Debug\RSS.Form1.resources
+C:\Users\ASUS\Desktop\Software\Project\RSS\RSS\obj\Debug\RSS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Software\Project\RSS\RSS\obj\Debug\RSS.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Software\Project\RSS\RSS\obj\Debug\RSS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Software\Project\RSS\RSS\obj\Debug\RSS.exe
+C:\Users\ASUS\Desktop\Software\Project\RSS\RSS\obj\Debug\RSS.pdb
